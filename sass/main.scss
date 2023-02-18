@@ -19,20 +19,18 @@
 @import "./pages/home";
 @import "./pages/projects";
 
-
-
-
-
-body{
-    color: $text-color;
-    font-family: $font-family;
-    background-color: $primary-color;
+body {
+  color: $text-color;
+  font-family: $font-family;
+  background-color: $primary-color;
 }
 
-a{
-    color: $text-color;
+a {
+  color: $text-color;
 }
 
-h1, h2, h3{
-    font-weight: 400;
+h1,
+h2,
+h3 {
+  font-weight: 400;
 }
